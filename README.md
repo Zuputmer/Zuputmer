@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Zuputmer
 - 👀 I’m interested in Game Development!
 - 🌱 I’m currently learning Unreal Engine 4!
-- 💞️ I’m looking to collaborate on any game development project!
+- 🌱 I’m also learning web development!
+- 💞️ I’m looking to collaborate on any game development/other project!
 - 📫 How to reach me aspiolol@protonmail.com
 
 <!---
